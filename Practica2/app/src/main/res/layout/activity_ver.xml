@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/background"
+    tools:context=".VerActivity">
+
+
+   <android.support.v7.widget.Toolbar
+    android:id="@+id/toolbarTarea"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/colorPrimary"
+    android:minHeight="?attr/actionBarSize"
+    android:theme="?attr/actionBarTheme"
+    app:navigationIcon="@drawable/logoactionbar"
+    app:layout_constraintTop_toTopOf="parent"
+    app:title="Calendar Urjc"
+    tools:layout_editor_absoluteX="1dp" />
+
+ <TextView
+     android:id="@+id/viewNombre"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="140dp"
+     android:text="@string/nomb_prof"
+     android:textColor="#FF0000"
+     android:textSize="20sp"
+     android:textStyle="bold"
+     app:layout_constraintTop_toTopOf="parent"
+     tools:layout_editor_absoluteX="0dp" />
+
+    <EditText
+        android:id="@+id/txtNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:labelFor="@+id/viewNombre"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@+id/viewNombre"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp" />
+
+ <TextView
+     android:id="@+id/viewTelefono"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="36dp"
+     android:text="@string/num_prof"
+     android:textColor="#FF0000"
+     android:textSize="20sp"
+     android:textStyle="bold"
+     app:layout_constraintTop_toBottomOf="@+id/txtNombre"
+     tools:layout_editor_absoluteX="0dp" />
+
+    <EditText
+        android:id="@+id/txtTelefono"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:inputType="phone"
+        android:labelFor="@+id/viewTelefono"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@+id/viewTelefono"
+        tools:layout_editor_absoluteX="16dp" />
+
+ <TextView
+     android:id="@+id/viewCorreo"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="36dp"
+     android:text="@string/correo_prof"
+     android:textColor="#FF0000"
+     android:textSize="20sp"
+     android:textStyle="bold"
+     app:layout_constraintTop_toBottomOf="@+id/txtTelefono"
+     tools:layout_editor_absoluteX="16dp" />
+
+    <EditText
+        android:id="@+id/txtCorreoElectronico"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="294dp"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:labelFor="@+id/viewCorreo"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnGuardar"
+        app:layout_constraintTop_toBottomOf="@+id/viewCorreo"
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="TouchTargetSizeCheck"
+        tools:layout_editor_absoluteX="-16dp" />
+
+    <Button
+        android:id="@+id/btnGuardar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="guardar"
+        android:text="@string/btn_Guardar"
+        android:theme="@style/Theme.practica2.Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.795" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_editar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:clickable="true"
+        android:onClick="editar"
+        app:backgroundTint="?attr/colorPrimary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.894"
+        app:srcCompat="@drawable/ic_edit" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabEliminar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginEnd="308dp"
+        android:layout_marginRight="308dp"
+        android:clickable="true"
+        app:backgroundTint="@color/red"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.16"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.894"
+        app:rippleColor="@color/white"
+        app:srcCompat="@drawable/ic_menu_delete"
+        app:tint="@color/black" />
+
+
+</android.support.constraint.ConstraintLayout>

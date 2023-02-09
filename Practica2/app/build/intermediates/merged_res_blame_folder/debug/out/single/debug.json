@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_portada4.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/portada4.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.practica2.app-main-19:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-mdpi_ic_edit.png.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-mdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.practica2.app-main-19:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_fondologotipo.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/fondologotipo.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_agenda.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_agenda.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.practica2.app-main-19:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-anydpi-v24_ic_input_extract_action_done.xml.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-anydpi-v24/ic_input_extract_action_done.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-v24_ic_menu_edit.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable-v24/ic_menu_edit.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/raw_second_song.mp3.flat",
+        "source": "com.example.practica2.app-main-19:/raw/second_song.mp3"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-xhdpi_ic_edit.png.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-xhdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_reproductor_musica.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_reproductor_musica.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_horario_null.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_horario_null.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_listacontactos.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_listacontactos.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_portada5.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/portada5.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_logoredondo.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/logoredondo.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-anydpi-v24_ic_plus.xml.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-anydpi-v24/ic_plus.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.practica2.app-main-19:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_repetir.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/repetir.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-anydpi-v21_ic_edit.xml.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-anydpi-v21/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-v24_ic_menu_delete.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable-v24/ic_menu_delete.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/raw_fifth_song.mp3.flat",
+        "source": "com.example.practica2.app-main-19:/raw/fifth_song.mp3"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/raw_fourth_song.mp3.flat",
+        "source": "com.example.practica2.app-main-19:/raw/fourth_song.mp3"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.practica2.app-main-19:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.practica2.app-main-19:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_tarea.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_tarea.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-anydpi-v24_ic_refresh.xml.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-anydpi-v24/ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_portada2.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/portada2.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/raw_first_song.mp3.flat",
+        "source": "com.example.practica2.app-main-19:/raw/first_song.mp3"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_button_rounded.xml.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/button_rounded.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_background.jpg.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/background.jpg"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_siguiente.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/siguiente.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.practica2.app-main-19:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_detener.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/detener.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_ic_menu_help.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/ic_menu_help.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-xxxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_reproducir.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/reproducir.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_lista_item_contacto.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/lista_item_contacto.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.practica2.app-main-19:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_horario.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_horario.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_contacto.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/contacto.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.practica2.app-main-19:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_calendario.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_calendario.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/raw_third_song.mp3.flat",
+        "source": "com.example.practica2.app-main-19:/raw/third_song.mp3"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_main.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_dia.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_dia.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_new_tarea.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_new_tarea.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_anterior.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/anterior.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_logoactionbar.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/logoactionbar.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.practica2.app-main-19:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_portada3.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/portada3.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_ver.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_ver.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-xxhdpi_ic_edit.png.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-xxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_no_repetir.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/no_repetir.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_portada1.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/portada1.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_icono_app.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/icono_app.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-ldpi_ic_edit.png.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-ldpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_pausa.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/pausa.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.practica2.app-main-19:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.practica2.app-main-19:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-v24_ic_menu_close.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable-v24/ic_menu_close.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_semana.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_semana.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable-hdpi_ic_edit.png.flat",
+        "source": "com.example.practica2.app-pngs-12:/drawable-hdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/layout_activity_clase.xml.flat",
+        "source": "com.example.practica2.app-main-19:/layout/activity_clase.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-merged_res-17:/drawable_calendarurjc.png.flat",
+        "source": "com.example.practica2.app-main-19:/drawable/calendarurjc.png"
+    }
+]

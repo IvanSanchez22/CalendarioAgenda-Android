@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_calendario.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_calendario.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_listacontactos.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_listacontactos.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_semana.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_semana.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_horario.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_horario.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_dia.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_dia.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_reproductor_musica.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_reproductor_musica.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/lista_item_contacto.xml",
+        "source": "com.example.practica2.app-main-19:/layout/lista_item_contacto.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_horario_null.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_horario_null.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_new_tarea.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_new_tarea.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_agenda.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_agenda.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_ver.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_ver.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_tarea.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_tarea.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_clase.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_clase.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-mergeDebugResources-16:/layout/activity_main.xml",
+        "source": "com.example.practica2.app-main-19:/layout/activity_main.xml"
+    }
+]

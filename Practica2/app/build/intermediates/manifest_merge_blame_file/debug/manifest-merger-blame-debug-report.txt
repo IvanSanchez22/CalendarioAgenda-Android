@@ -1,0 +1,160 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.practica2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature android:name="android.hardware.screen.portrait" />
+11-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:4:5-69
+11-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:4:19-66
+12
+13    <application
+13-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:6:5-76:19
+14        android:allowBackup="true"
+14-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:7:9-35
+15        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+15-->[com.android.support:support-compat:28.0.0] C:\Users\Ivan\.gradle\caches\transforms-3\4f186a80ab597ea7aa722d39464f8dbb\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+16        android:debuggable="true"
+17        android:icon="@drawable/icono_app"
+17-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:9:9-41
+19        android:roundIcon="@drawable/logoredondo"
+19-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:10:9-50
+20        android:supportsRtl="true"
+20-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.practica2" >
+22-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:12:9-47
+23        <activity
+23-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:13:9-19:20
+24            android:name="com.example.practica2.ReproductorMusica"
+24-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:14:13-46
+25            android:exported="false" >
+25-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:15:13-37
+26            <meta-data
+26-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:16:13-18:36
+27                android:name="android.app.lib_name"
+27-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:17:17-52
+28                android:value="" />
+28-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:18:17-33
+29        </activity>
+30        <activity
+30-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:20:9-26:20
+31            android:name="com.example.practica2.VerActivity"
+31-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:21:13-40
+32            android:exported="false" >
+32-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:22:13-37
+33            <meta-data
+33-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:16:13-18:36
+34                android:name="android.app.lib_name"
+34-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:17:17-52
+35                android:value="" />
+35-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:18:17-33
+36        </activity>
+37        <activity
+37-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:27:9-30:52
+38            android:name="com.example.practica2.ClaseActivity"
+38-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:28:13-42
+39            android:exported="false"
+39-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:29:13-37
+40            android:screenOrientation="portrait" />
+40-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:30:13-49
+41        <activity
+41-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:31:9-34:52
+42            android:name="com.example.practica2.HorarioActivity"
+42-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:32:13-44
+43            android:exported="false"
+43-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:33:13-37
+44            android:screenOrientation="portrait" />
+44-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:34:13-49
+45        <activity
+45-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:35:9-38:52
+46            android:name="com.example.practica2.AgendaProfesores"
+46-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:36:13-45
+47            android:exported="false"
+47-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:37:13-37
+48            android:screenOrientation="portrait" />
+48-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:38:13-49
+49        <activity
+49-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:39:9-42:52
+50            android:name="com.example.practica2.SemanaActivity"
+50-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:40:13-43
+51            android:exported="false"
+51-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:41:13-37
+52            android:screenOrientation="portrait" />
+52-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:42:13-49
+53        <activity
+53-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:43:9-46:52
+54            android:name="com.example.practica2.TareaActivity"
+54-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:44:13-42
+55            android:exported="false"
+55-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:45:13-37
+56            android:screenOrientation="portrait" />
+56-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:46:13-49
+57        <activity
+57-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:47:9-50:52
+58            android:name="com.example.practica2.NewTareaActivity"
+58-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:48:13-45
+59            android:exported="false"
+59-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:49:13-37
+60            android:screenOrientation="portrait" />
+60-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:50:13-49
+61        <activity
+61-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:51:9-53:69
+62            android:name="com.example.practica2.EditarAgenda"
+62-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:52:13-41
+63            android:parentActivityName="com.example.practica2.ListaContactos" />
+63-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:53:13-57
+64        <activity
+64-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:54:9-64:20
+65            android:name="com.example.practica2.MainActivity"
+65-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:55:13-41
+66            android:exported="true"
+66-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:56:13-36
+67            android:screenOrientation="portrait"
+67-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:57:13-49
+68            android:theme="@style/Theme.practica2.Menu" >
+68-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:58:13-56
+69            <intent-filter>
+69-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:59:13-63:29
+70                <action android:name="android.intent.action.MAIN" />
+70-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:60:17-69
+70-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:60:25-66
+71
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:62:17-77
+72-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:62:27-74
+73            </intent-filter>
+74        </activity>
+75        <activity
+75-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:65:9-68:52
+76            android:name="com.example.practica2.CalendarioActivity"
+76-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:66:13-47
+77            android:exported="false"
+77-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:67:13-37
+78            android:screenOrientation="portrait" />
+78-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:68:13-49
+79        <activity
+79-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:69:9-72:52
+80            android:name="com.example.practica2.DiaActivity"
+80-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:70:13-40
+81            android:exported="false"
+81-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:71:13-37
+82            android:screenOrientation="portrait" />
+82-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:72:13-49
+83        <activity
+83-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:73:9-75:58
+84            android:name="com.example.practica2.ListaContactos"
+84-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:74:13-43
+85            android:parentActivityName="com.example.practica2.MainActivity" />
+85-->C:\Users\Ivan\Videos\Cuarto Soft\Primer Cuatrimestre\LDM\Practica2\Practica2\app\src\main\AndroidManifest.xml:75:13-55
+86    </application>
+87
+88</manifest>

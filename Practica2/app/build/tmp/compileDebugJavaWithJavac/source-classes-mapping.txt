@@ -1,0 +1,73 @@
+com/example/practica2/databinding/ActivitySemanaBinding.java
+ com.example.practica2.databinding.ActivitySemanaBinding
+com/example/practica2/Tarea.java
+ com.example.practica2.Tarea
+com/example/practica2/databinding/ActivityAgendaBinding.java
+ com.example.practica2.databinding.ActivityAgendaBinding
+com/example/practica2/IncorrectDatesException.java
+ com.example.practica2.IncorrectDatesException
+com/example/practica2/HorarioActivity.java
+ com.example.practica2.HorarioActivity
+ com.example.practica2.HorarioActivity$1
+ com.example.practica2.HorarioActivity$2
+ com.example.practica2.HorarioActivity$3
+com/example/practica2/databinding/ActivityHorarioBinding.java
+ com.example.practica2.databinding.ActivityHorarioBinding
+com/example/practica2/databinding/ActivityHorarioNullBinding.java
+ com.example.practica2.databinding.ActivityHorarioNullBinding
+com/example/practica2/Clase.java
+ com.example.practica2.Clase
+com/example/practica2/NewTareaActivity.java
+ com.example.practica2.NewTareaActivity
+ com.example.practica2.NewTareaActivity$1
+ com.example.practica2.NewTareaActivity$2
+ com.example.practica2.NewTareaActivity$3
+com/example/practica2/Horario.java
+ com.example.practica2.Horario
+com/example/practica2/databinding/ActivityClaseBinding.java
+ com.example.practica2.databinding.ActivityClaseBinding
+com/example/practica2/TareaActivity.java
+ com.example.practica2.TareaActivity
+ com.example.practica2.TareaActivity$1
+com/example/practica2/databinding/ActivityMainBinding.java
+ com.example.practica2.databinding.ActivityMainBinding
+com/example/practica2/databinding/ActivityNewTareaBinding.java
+ com.example.practica2.databinding.ActivityNewTareaBinding
+com/example/practica2/SemanaActivity.java
+ com.example.practica2.SemanaActivity
+com/example/practica2/DiaActivity.java
+ com.example.practica2.DiaActivity
+ com.example.practica2.DiaActivity$1
+com/example/practica2/IncorrectHoursException.java
+ com.example.practica2.IncorrectHoursException
+com/example/practica2/databinding/ActivityTareaBinding.java
+ com.example.practica2.databinding.ActivityTareaBinding
+com/example/practica2/DbHelper.java
+ com.example.practica2.DbHelper
+com/example/practica2/Evento.java
+ com.example.practica2.Evento
+com/example/practica2/StringCreator.java
+ com.example.practica2.StringCreator
+com/example/practica2/Calendario.java
+ com.example.practica2.Calendario
+com/example/practica2/CalendarioActivity.java
+ com.example.practica2.CalendarioActivity
+ com.example.practica2.CalendarioActivity$1
+com/example/practica2/ClaseActivity.java
+ com.example.practica2.ClaseActivity
+ com.example.practica2.ClaseActivity$1
+ com.example.practica2.ClaseActivity$2
+ com.example.practica2.ClaseActivity$3
+ com.example.practica2.ClaseActivity$4
+com/example/practica2/databinding/ActivityDiaBinding.java
+ com.example.practica2.databinding.ActivityDiaBinding
+com/example/practica2/databinding/ActivityCalendarioBinding.java
+ com.example.practica2.databinding.ActivityCalendarioBinding
+com/example/practica2/BuildConfig.java
+ com.example.practica2.BuildConfig
+com/example/practica2/MainActivity.java
+ com.example.practica2.MainActivity
+com/example/practica2/DbContactos.java
+ com.example.practica2.DbContactos
+com/example/practica2/AgendaProfesores.java
+ com.example.practica2.AgendaProfesores

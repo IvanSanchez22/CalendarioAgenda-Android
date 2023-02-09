@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Calendar urjc</string>
+    <string name="title_activity_tarea">TareaActivity</string>
+    <string name="horario">Horario</string>
+    <string name="abrir_calendario">Abrir Calendario</string>
+    <string name="anadir_tarea">Añadir Tarea</string>
+    <string name="profesores">Agenda Profesores</string>
+    <string name="ver_semana">Ver Semana</string>
+    <string name="fecha_de_la_tarea">Fecha de la Tarea</string>
+    <string name="titulo_de_la_tarea">Titulo de la Tarea</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="fecha">Fecha</string>
+    <string name="hora">Hora</string>
+    <string name="guardar_tarea">Guardar Tarea</string>
+    <string name="hora_inicio">Hora Inicio</string>
+    <string name="hora_fin">Hora Fin</string>
+    <string name="cod_profesor">Código del Profesor</string>
+    <string name="nomb_prof">Nombre:</string>
+    <string name="num_prof">Número:</string>
+    <string name="correo_prof">Correo:</string>
+    <string name="btn_Guardar">Guardar Registro</string>
+    <string name="btn_Buscar">Buscar Registro</string>
+    <string name="btn_Modificar">Modificar Registro</string>
+    <string name="btn_Eliminar">Eliminar Registro</string>
+    <string name="btn_Musica">Music</string>
+    <string name="btn_Lista">Lista</string>
+
+
+    <string name="lun">Lunes</string>
+    <string name="mar">Martes</string>
+    <string name="mie">Miércoles</string>
+    <string name="jue">Jueves</string>
+    <string name="vie">Viernes</string>
+    <string name="sab">Sábado</string>
+    <string name="dom">Domingo</string>
+
+    <string name="texto_ayuda">¡Bienvenido a Calendar Urjc!\n\n
+    Te ayudaremos a organizar tus tareas de una manera fácil e intuitiva.\n\n
+    A continuación, se muestra una guía rápida de las opciones del menú principal:\n
+          \t- Music: Muestra un reproductor de música que podrás usar mientras permanezcas en esta sección de la app.\n
+    \t- Abrir Calendario: Muestra un calendario donde puedes seleccionar un día para ver todas las tareas que tienes durante este.\n
+    \t- Ver Semana: Muestra un menú con las tareas de la semana actual.\n
+    \t- Añadir Tarea: Muestra un menú donde puedes crear una nueva tarea.\n
+        \t- Horario: Muestra un menú donde puedes introducir tu horario con tus tareas semanales.\n
+    \t- Agenda Profesores: Muestra una lista de contactos donde puedes guardar modificar y eliminar los datos de tus profesores.\n\n
+    Adelante, pulse Añadir Tarea para comenzar a anotar sus tareas. También puede realizar esta acción pulsando Abrir Calendario, escogiendo un día y pulsando el botón + presente en la lista de tareas de ese día.
+    </string>
+
+
+    <string name="guion">-</string>
+    <string name="no_tienes_horario">No tienes horario</string>
+    <string name="crear_horario">Crear Horario</string>
+    <string name="t_tulo_de_la_clase">Título de la Clase</string>
+    <string name="d_a_de_la_semana">Día de la semana:</string>
+
+
+    <string-array name="day_array">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </string-array>
+
+</resources>
