@@ -1,0 +1,2 @@
+# CalendarioAgenda-Android
+Calendar Urjc es una aplicación diseñada para poder organizar tareas de una manera fácil e intuitiva, además dispondrás de una agenda personal diseñada para poder guardar los contactos de tus profesores pudiendo añadir editar y eliminar cualquiera de ellos cuando se desee. También dispone de un reproductor de música el cual se podrá usar siempre que nos mantengamos en su layout para poder tener música de fondo mientras estudiamos o hacemos alguna otra actividad.
